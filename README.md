@@ -1,2 +1,7 @@
-# dev-tools
-This repo contains all code, notes, other stuff that I might need later on...!
+# Developer Tools & Configurations
+
+This repository contains my personal configurations, scripts, and developmental setups.
+
+## 🛠️ Configured Tools
+
+* **[Tmux Config](tmux/README.md)**: Custom Tmux keybindings, mouse support, activity indicators, and visual styling.
